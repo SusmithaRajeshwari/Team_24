@@ -1,0 +1,83 @@
+[
+    {
+        "user_id": 1,
+        "first_name": "Divya",
+        "last_name": "Thanigaimani",
+        "account_status": "Active",
+        "phone_number": "5199925012",
+        "role": "delivery"
+    },
+    {
+        "user_id": 2,
+        "first_name": "Divya",
+        "last_name": "Thanigaimani",
+        "account_status": "Inactive",
+        "phone_number": "5199925012",
+        "role": "Delivery"
+    },
+    {
+        "user_id": 3,
+        "first_name": "Divya",
+        "last_name": "Thanigaimani",
+        "account_status": "Active",
+        "phone_number": "5199925012",
+        "role": "Delivery"
+    },
+    {
+        "user_id": 4,
+        "first_name": "Divya",
+        "last_name": "Thanigaimani",
+        "account_status": "Inactive",
+        "phone_number": "5199925012",
+        "role": "Delivery"
+    },
+    {
+        "user_id": 5,
+        "first_name": "Divya",
+        "last_name": "Thanigaimani",
+        "account_status": "Active",
+        "phone_number": "5199925012",
+        "role": "Delivery"
+    },
+    {
+        "user_id": 6,
+        "first_name": "Sushmitha",
+        "last_name": "Chandramohan",
+        "account_status": "Inactive",
+        "phone_number": "5199925012",
+        "role": "Delivery"
+    },
+    {
+        "user_id": 7,
+        "first_name": "Sushmitha",
+        "last_name": "Chandramohan",
+        "account_status": "Active",
+        "phone_number": "5199925012",
+        "role": "Delivery"
+    },
+    {
+        "user_id": 8,
+        "first_name": "Sushmitha",
+        "last_name": "Chandramohan",
+        "account_status": "Inactive",
+        "phone_number": "5199925012",
+        "role": "Delivery"
+    },
+    {
+        "user_id": 9,
+        "first_name": "Sushmitha",
+        "last_name": "Chandramohan",
+        "account_status": "Inactive",
+        "phone_number": "5199925012",
+        "role": "Delivery"
+    },
+    {
+        "user_id": 10,
+        "first_name": "Sushmitha",
+        "last_name": "Chandramohan",
+        "account_status": "Active",
+        "phone_number": "5199925012",
+        "role": "Delivery"
+    }
+]
+

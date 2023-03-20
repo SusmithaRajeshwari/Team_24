@@ -1,0 +1,23 @@
+[
+	{
+        "itemId":1,
+		"itemName": "Sunflower Oil",
+		"quantity": 1,
+        "itemCost":6.99
+	},
+	{
+        "itemId":2,
+		"itemName": "Basmati Rise",
+		"quantity": 1,
+        "itemCost":10.99
+	},
+    {
+        "itemId":3,
+		"itemName": "Soft Drink",
+		"quantity": 1,
+        "itemCost":7
+	},
+    {
+        "total":24.98
+    }
+]
